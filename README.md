@@ -1,3 +1,3 @@
 # odin-recipes
 
-Odin Recipes is a basic recipe website project created during the Odin Project.
+This is a simple website using only HTML, as part of the The Odin Project curriculum.
